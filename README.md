@@ -1,5 +1,5 @@
 ### Ola! Eu sou Paloma Edeltrudes. 
-Estou aprendendo a programar do zero desde Julho/2022. 👋
+Estudando back-end desde Julho/2022. 👋
   
 ## 
 <div align="center">
