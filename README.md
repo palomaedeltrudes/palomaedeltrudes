@@ -1,5 +1,3 @@
-### Ola! Eu sou Paloma Edeltrudes. 
-Estudando back-end desde Julho/2022. 👋
   
 ## 
 <div align="center">
