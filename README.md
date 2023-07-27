@@ -29,12 +29,12 @@
  
 <div align="center">   
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-783c00?style=flat-square&labelColor=783c00&logo=gmail&logoColor=white&link=[LINK-DO-SEU-GMAIL](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail&ec=GBRAFw)" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-783c00?style=flat-square&labelColor=783c00&logo=gmail&logoColor=white&link=(https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail&ec=GBRAFw)" /></a>
 
   <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-783c00?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paloma-edeltrudes-088510247/)" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-783c00?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/paloma-edeltrudes-088510247/)" /></a>
 
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-783c00?style=flat-square&labelColor=783c00&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/palomaedeltrudes/)https://www.instagram.com/palomaedeltrudes/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-783c00?style=flat-square&labelColor=783c00&logo=instagram&logoColor=white&link=(https://www.instagram.com/palomaedeltrudes/)https://www.instagram.com/palomaedeltrudes/"/></a>
 </p>
  </div>
