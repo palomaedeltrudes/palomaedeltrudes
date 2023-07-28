@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Paloma Edeltrudes&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> 🎓Manufactoring Engineer <br/> I'm currently study Data Science</p>
+<p> 🎓Manufactoring Engineer <br/> I'm currently studying Data Science</p>
 
 <hr>
 
